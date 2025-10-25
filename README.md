@@ -13,11 +13,11 @@ Exemple de signatures (*signatures.magic*)
 L’image disque (*challenge.bin*)
 
 
-Fichiers:
+Fichier:
 - [the-colour-of-magic.tar.xz](the-colour-of-magic.tar.xz)
 
 
-Auteurs : erdnaxe
+Auteur : erdnaxe
 
 
 Origine : [The Colour of Magic](https://hackropole.fr/fr/challenges/misc/fcsc2023-misc-the-colour-of-magic/)
